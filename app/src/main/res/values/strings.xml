@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">M3DICINE</string>
+    <string name="ready">Ready</string>
+    <string name="recording_view">Recording View</string>
+    <string name="playback_view">Playback View</string>
+    <string name="playback_now">Playback Now</string>
+    <string name="back_rec">Back to Rec</string>
+</resources>
